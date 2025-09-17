@@ -1,0 +1,126 @@
+{
+  "conversation_id": "conversation1",
+  "messages": [
+    {
+      "role": "user",
+      "content": "I feel stuck. I graduated 6 months ago and still don't have a job. Everyone around me seems to be moving forward and I feel like a failure."
+    },
+    {
+      "role": "bot",
+      "content": "That sounds really heavy. It must be tough watching others move ahead while you feel like you’re standing still. But being unemployed doesn’t define your worth—it’s just a chapter in your journey. What part of this situation feels hardest right now: the comparisons, the pressure, or the uncertainty?"
+    },
+    {
+      "role": "user",
+      "content": "Seeing my friends post about their jobs on LinkedIn makes me spiral."
+    },
+    {
+      "role": "bot",
+      "content": "Social media can be like a magnifying glass—it shows the shiny highlights of other people’s lives, but not the struggles behind them. Comparing your journey to theirs might be adding unnecessary weight on your shoulders. Have you thought about setting your own definition of progress, separate from theirs?"
+    },
+    {
+      "role": "user",
+      "content": "I don’t know how to do that."
+    },
+    {
+      "role": "bot",
+      "content": "Maybe it could start small: writing down one thing each day that moves you a step forward—whether it’s sending a CV, learning a new skill, or even resting so you can show up tomorrow with energy. Tiny wins add up, even if they don’t feel like big leaps. What’s one thing you could try today to feel a bit more in control?"
+    },
+    {
+      "role": "user",
+      "content": "Maybe updating my resume. It's outdated."
+    },
+    {
+      "role": "bot",
+      "content": "That sounds like a great step. It's practical and gives you a sense of readiness. Sometimes even small actions like that can ease the feeling of being stuck. How would it feel to set a goal of updating it by the end of today?"
+    },
+    {
+      "role": "user",
+      "content": "Honestly? Scary. Because once it's updated, it means I'll have no excuse left for not applying."
+    },
+    {
+      "role": "bot",
+      "content": "That’s such an insightful observation. It sounds like part of you is protecting yourself from rejection by holding off. Avoiding applications keeps you safe from the \"no,\" but it also blocks the chance for a \"yes.\" Does that feel true to you?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I’m terrified of rejection."
+    },
+    {
+      "role": "bot",
+      "content": "Rejection stings, no doubt about it. But sometimes it’s not a reflection of your worth—it’s just about fit. Every “no” is a step closer to the right “yes.” What’s been your past experience with rejection?"
+    },
+    {
+      "role": "user",
+      "content": "I applied to a couple of jobs last year and never even got a reply. That really hurt."
+    },
+    {
+      "role": "bot",
+      "content": "That must have felt discouraging, like your effort wasn't even acknowledged. It's understandable that it left a mark. But silence doesn't mean you weren't good enough; often it's just about timing, volume of applicants, or factors outside your control. If you could reframe those past experiences, what lesson might you take from them?"
+    },
+    {
+      "role": "user",
+      "content": "Maybe I need to apply to more places and not put all my hopes into one or two."
+    },
+    {
+      "role": "bot",
+      "content": "Exactly—that’s a powerful takeaway. It’s like planting seeds: the more you plant, the higher the chances something will grow. What do you think could help you build consistency in sending applications without it feeling overwhelming?"
+    },
+    {
+      "role": "user",
+      "content": "Maybe setting a small target, like two applications per week."
+    },
+    {
+      "role": "bot",
+      "content": "That sounds realistic and manageable. Breaking it down prevents burnout and makes progress feel achievable. Imagine yourself two months from now, having sent 16 applications. How would that version of you feel compared to today?"
+    },
+    {
+      "role": "user",
+      "content": "I think I'd feel proud of myself, even if none of them worked out. At least I'd be trying."
+    },
+    {
+      "role": "bot",
+      "content": "That pride is important—it shows progress isn’t only about results, but about showing up for yourself. What could help you celebrate small wins along the way, like updating your resume or sending an application?"
+    },
+    {
+      "role": "user",
+      "content": "Maybe treating myself to something simple, like a coffee from my favorite cafe."
+    },
+    {
+      "role": "bot",
+      "content": "I love that idea—it creates a positive association with taking action. A small ritual of reward can motivate you to keep going. Beyond job applications, is there something else you'd like to explore or learn during this waiting phase?"
+    },
+    {
+      "role": "user",
+      "content": "I've been thinking about taking an online course, maybe in digital marketing."
+    },
+    {
+      "role": "bot",
+      "content": "That sounds exciting, like investing in your growth while you search. Courses can boost confidence and expand your skills, but they also remind you that you’re moving forward, even if the job hunt feels slow. What’s drawing you to digital marketing in particular?"
+    },
+    {
+      "role": "user",
+      "content": "It feels creative, and I enjoy social media. Plus, it seems like there are many opportunities in that field."
+    },
+    {
+      "role": "bot",
+      "content": "That’s a strong combination: interest and opportunities. Exploring this could open doors you haven’t considered before. Do you think committing to that course would also help ease some of the pressure of comparisons?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, because I’d feel like I’m doing something productive instead of just waiting."
+    },
+    {
+      "role": "bot",
+      "content": "Exactly—taking control where you can brings back a sense of power. Even small steps can shift how you see yourself. From everything we’ve discussed, what would you like your first concrete step to be after this conversation?"
+    },
+    {
+      "role": "user",
+      "content": "Update my resume tonight, and tomorrow I’ll look into digital marketing courses."
+    }
+  ],
+  "language": "en",
+  "country": "IN",
+  "timestamp": "2025-06-26T14:04:28+00:00",
+  "insight_score": 8,
+  "isPaid": false
+}

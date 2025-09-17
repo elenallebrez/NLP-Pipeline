@@ -1,0 +1,122 @@
+{
+    "conversation_id": "conversation7",
+    "messages": [
+        {
+            "role": "bot",
+            "content": "Hi (:star) I’m <PERSON>. You can share anything here without judgment. What’s been weighing on your mind lately?"
+        },
+        {
+            "role": "user",
+            "content": "I feel lost about my career. My parents keep saying I should become a doctor like my cousin <PERSON>, but I hate medicine (:sad)."
+        },
+        {
+            "role": "bot",
+            "content": "That’s tough. Feeling pulled in a direction that doesn’t fit your passions can create a lot of stress. What makes medicine feel wrong for you?"
+        },
+        {
+            "role": "user",
+            "content": "I don’t like the long hours, and I’m not interested in biology that much. I want to do something creative, maybe design or tech."
+        },
+        {
+            "role": "bot",
+            "content": "It’s great that you know what excites you. Creativity and tech are valid and valuable paths. Pressure from family can be heavy—have you tried talking to them about your interests?"
+        },
+        {
+            "role": "user",
+            "content": "I tried. My dad said on <DATE>: \"You'll regret not choosing a stable career like medicine.\" (:angry)"
+        },
+        {
+            "role": "bot",
+            "content": "That can feel discouraging. Stability is important, but so is fulfillment. Sometimes it helps to show your parents a plan that combines passion and practicality. What would your ideal path look like?"
+        },
+        {
+            "role": "user",
+            "content": "Maybe working in UI/UX design. I even started a portfolio website last month at <URL> but my mom laughed when she saw it."
+        },
+        {
+            "role": "bot",
+            "content": "Starting a portfolio shows initiative—that's impressive! Parental skepticism can sting, but your actions prove you're serious. What kind of feedback from them would help, if any?"
+        },
+        {
+            "role": "user",
+            "content": "Honestly, even just a \"We see you're trying\" would make me feel supported."
+        },
+        {
+            "role": "bot",
+            "content": "That's completely fair. Recognition matters. Small affirmations can make a big difference, especially when pursuing unconventional paths."
+        },
+        {
+            "role": "user",
+            "content": "I also have anxiety about failing. Last week I sent an email to a design mentor asking for advice, and I’m still waiting for a reply. (:sad)"
+        },
+        {
+            "role": "bot",
+            "content": "Waiting can be stressful, but reaching out shows courage. Mentors often have busy schedules, and a delayed reply doesn’t reflect your value or effort."
+        },
+        {
+            "role": "user",
+            "content": "Yeah, I also fear my cousin <PERSON> will brag about med school again at family dinner on <DATE> (:sweat_smile)."
+        },
+        {
+            "role": "bot",
+            "content": "Comparisons can hurt, especially with relatives. Remember, your path is unique. Maybe you can prepare a calm response, like \"I'm exploring tech and design; I love learning in that field.\""
+        },
+        {
+            "role": "user",
+            "content": "Good idea. I also practice coding and design at home using my old laptop but it crashes sometimes (:sad)."
+        },
+        {
+            "role": "bot",
+            "content": "Even with technical hiccups, your persistence is impressive. Small setbacks don’t erase your progress—they’re just part of the journey."
+        },
+        {
+            "role": "user",
+            "content": "Thanks. I also tried watching tutorials and it helped a bit."
+        },
+        {
+            "role": "bot",
+            "content": "That’s great! Structured learning can boost confidence. Would it help to set small weekly goals for your portfolio or coding practice?"
+        },
+        {
+            "role": "user",
+            "content": "Yes, I can aim to finish one design project each week."
+        },
+        {
+            "role": "bot",
+            "content": "Perfect. That makes your path tangible and reduces anxiety. You're taking control instead of feeling trapped by expectations."
+        },
+        {
+            "role": "user",
+            "content": "Sometimes I even imagine telling my parents about a successful project I did. Last time, they barely looked at my certificate from the online course on <DATE>."
+        },
+        {
+            "role": "bot",
+            "content": "That can feel discouraging, but your achievements matter, not their reaction. Celebrating them for yourself is valid. Maybe share them selectively with people who support you, like your mentor <PERSON>."
+        },
+        {
+            "role": "user",
+            "content": "Yes, I'll do that. Also, my friend <PERSON> said I should apply for a design competition in <LOCATION> next month."
+        },
+        {
+            "role": "bot",
+            "content": "That's an exciting opportunity! Competitions can validate your skills and give you exposure. How do you feel about applying?"
+        },
+        {
+            "role": "user",
+            "content": "Nervous but excited (:nervous). I think it could help prove to myself that I can do this."
+        },
+        {
+            "role": "bot",
+            "content": "Exactly. External validation is nice, but the most important validation is your own confidence. Each step you take reinforces it."
+        },
+        {
+            "role": "user",
+            "content": "Thanks <PERSON>. Talking here makes me feel calmer."
+        },
+        {
+            "role": "bot",
+            "content": "I'm glad (:happy). You're already doing a lot—planning, practicing, reaching out for guidance. That's resilience in action. Keep trusting your instincts and passions."
+        }
+    ],
+    "language": "en"
+}
