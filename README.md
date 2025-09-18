@@ -58,8 +58,8 @@ This repository contains scripts and notebooks for:
 - Output saved in CSV format with labels (`ALLOW` or `BLOCK`).
 
 ### 🔹 Data Cleaning
-- `DatCleaning1.ipynb`
-- `DatCleaning2.ipynb`
+- `DatCleaning1.ipynb` → Processes raw Excel files containing conversations.
+- `DatCleaning2.ipynb` → Process cleaned Json files deleting redundant information
 
 ---
 
