@@ -12,19 +12,30 @@ This repository contains scripts and notebooks for:
 ## 📂 Project Structure
 ````
 ┣ 📁 Context
+┃ ┣ 📁 context/context_summary.json # The context of each conversation
 ┃ ┣ Context.ipynb
+┃
 ┣ 📁 Data Cleaning 1
+┃ ┣ 📁 cleaned_json1/ # Raw data processed
 ┃ ┣ DataCleaning1.ipynb 
+┃
 ┣ 📁 Data Cleaning 2
+┃ ┣ 📁 Json Files/ # Json Files processed
 ┃ ┣ DataCleaning2.ipynb
-┣ 📁 DataRedFlagGeneration
-┃ ┣ DataCleaning2.ipynb
+┃
+┣ 📁 DataGenerator
+┃ ┣ 📁 DataGenerated
+┃ ┣ RedFlagDataGenerator.ipynb
+┃
 ┣ 📁 Embeddings
 ┃ ┣ 📁 embeddingopenAIFiles/ # Embeddings generated with OpenAI
 ┃ ┣ 📁 embeddingGeminiFiles/ # Embeddings generated with Gemini
-┃ ┣ DataCleaning2.ipynb
-┃ ┣ DataCleaning2.ipynb
-┃ ┣ DataCleaning2.ipynb
+┃ ┣ ComparisionEmbeddings.ipynb
+┃ ┣ EmbeddingGemini.ipynb
+┃ ┣ EmbeddingOpenAI.ipynb
+┃
+┣ 📁 raw data
+┃
 ┗ README.md
 ````
 
