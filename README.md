@@ -10,7 +10,23 @@ This repository contains scripts and notebooks for:
 ---
 
 ## 📂 Project Structure
-
+````
+┣ 📁 Context
+┃ ┣ Context.ipynb
+┣ 📁 Data Cleaning 1
+┃ ┣ DataCleaning1.ipynb 
+┣ 📁 Data Cleaning 2
+┃ ┣ DataCleaning2.ipynb
+┣ 📁 DataRedFlagGeneration
+┃ ┣ DataCleaning2.ipynb
+┣ 📁 Embeddings
+┃ ┣ 📁 embeddingopenAIFiles/ # Embeddings generated with OpenAI
+┃ ┣ 📁 embeddingGeminiFiles/ # Embeddings generated with Gemini
+┃ ┣ DataCleaning2.ipynb
+┃ ┣ DataCleaning2.ipynb
+┃ ┣ DataCleaning2.ipynb
+┗ README.md
+````
 
 ---
 
